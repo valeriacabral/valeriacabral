@@ -1,5 +1,53 @@
 <h1> Hi! My name is Valéria. </h1>
 
+<h3>Linguagens de Programação:</h3>
+<ul>
+    <li>Python</li>
+    <li>JavaScript</li>
+</ul>
+
+<h3>Frameworks Front-end:</h3>
+<ul>
+    <li>React</li>
+    <li>Angular</li>
+</ul>
+
+<h3>Frameworks Back-end:</h3>
+<ul>
+    <li>Django</li>
+    <li>Express.js</li>
+</ul>
+
+<h3>Bancos de Dados:</h3>
+<ul>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+</ul>
+
+<h3>Desenvolvimento Mobile:</h3>
+<ul>
+    <li>Flutter</li>
+    <li>React Native</li>
+</ul>
+
+<h3>Ferramentas de Controle de Versão:</h3>
+<ul>
+    <li>Git</li>
+</ul>
+
+<h3>Orquestração de Contêineres:</h3>
+<ul>
+    <li>Docker</li>
+    <li>Kubernetes</li>
+</ul>
+
+<h3>Desenvolvimento Web Full-stack:</h3>
+<ul>
+    <li>MEAN Stack (MongoDB, Express.js, Angular, Node.js)</li>
+</ul>
+
+<p>Esta é apenas uma visão geral das tecnologias com as quais estou familiarizado. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades e oferecer soluções inovadoras. Se você compartilha interesses ou tem sugestões, ficarei feliz em conectar! 😊🚀</p>
+
 <div>
   <a href="https://github.com/valeriacabral/valeriacabral">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=valeriacabral&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
